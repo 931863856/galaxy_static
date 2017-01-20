@@ -1,0 +1,215 @@
+/***********************************公共类**************************/
+/*背景*/
+.c3{
+    background-color: #f5f5f5;
+}
+.c7{
+    background-color: #ff6633 !important;
+}
+.c13{
+    background: #fff;
+}
+/*字体色*/
+.c4{
+    color: #858484;
+}
+.c5{
+    color: #0c0c0c;
+}
+.c6{
+    color: #fff;
+}
+
+.c8{
+    color: #ff6633;
+}
+.c9{
+    color: #1a1a1a;
+}
+.c10{
+    color: #b7b7b7 !important;
+}
+.c11{
+    color: #747474;
+}
+.c12{
+    color: #cdcdcd;
+}
+.c14{
+    color: #4d4d4d;
+}
+.c15{
+    color:#FF4040
+}
+
+/*定位*/
+.rel{
+    position: relative;
+}
+.abs{
+    position: absolute;
+}
+.dis-in{
+    display: inline-block;
+}
+.dis-b{
+    display: block;
+}
+.fs0{
+    font-size: 0;
+}
+.fs12{
+    font-size: 12px;
+}
+.fs14{
+    font-size: 14px;
+}
+.fs15{
+    font-size: 15px;
+}
+.fs16{
+    font-size: 16px;
+}
+.fs18{
+    font-size: 18px;
+}
+.fs22{
+    font-size: 22px;
+}
+.fs24{
+    font-size: 24px;
+}
+.mlr15{
+    margin: 0 5%;
+}
+.mt10{
+    margin-top: 10px;
+}
+.mt15{
+    margin-top: 15px;
+}
+.mt20{
+    margin-top: 20px;
+}
+.mt25{
+    margin-top: 25px;
+}
+.mtb20{
+    margin: 20px 0;
+}
+.mt5{
+    margin-top: 5px;
+}
+.m-l{
+    margin-left: 10px;
+}
+.ml8{
+    margin-left: 8px;
+}
+.m-r{
+    margin-right: 0!important;
+}
+/*边框*/
+.b{
+    border: 1px solid #e6e6e6;
+}
+.bb{
+    border-bottom: 1px solid #e6e6e6;
+}
+.bt {
+    border-top: 1px solid #e6e6e6;
+}
+.br{
+    border-right: 1px solid #e6e6e6;
+}
+.bl{
+    border-left: 1px solid #e6e6e6;
+}
+.ptb{
+    padding: 10px 0;
+}
+.pl20{
+    padding-left:20px;
+}
+.p10{
+    padding: 10px;
+}
+
+.pb15{
+    padding-bottom:15px;
+}
+.pb55{
+    padding-bottom: 55px;
+}
+.plr10{
+    padding: 0 10px;
+}
+.p-t{
+    padding-top: 3px;
+}
+.p-b{
+    padding-bottom: 3px;
+}
+.pl8{
+   padding-left: 8px;
+}
+.fr{
+    float: right;
+}
+.fl{
+    float: left;
+}
+.r{
+    right: 24%;
+}
+.r23{
+    right: 23px;
+}
+.t15{
+    top:15px
+}
+.l{
+    left: 100%;
+}
+
+.o-f{
+    overflow: hidden;
+}
+.va-b{
+    vertical-align: bottom;
+}
+.va-t{
+    vertical-align: top;
+}
+.va-m{
+    vertical-align: middle;
+}
+.ta-c{
+    text-align: center;
+}
+.ta-r{
+    text-align: right;
+}
+.ta-l{
+    text-align: left;
+}
+.bor-r3{
+    border-radius: 3px;
+    -webkit-border-radius:3px;
+}
+.hide{
+    display: none;
+}
+.w20{
+    width: 20px;
+}
+
+.invisabiliy{
+    visibility: hidden;
+}
+.hide{
+    display: none;
+}
+.active{
+    display: block;
+}
